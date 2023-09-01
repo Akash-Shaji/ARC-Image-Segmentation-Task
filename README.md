@@ -2,22 +2,22 @@
 Image Segmentation Model For Automotive Research Center
 
 
-Requirements
-Python 3
-Tensorflow
-Matplotlib
-Tensorflow_hub
-Numpy
+## Requirements
+- Python 3
+- Tensorflow
+- Matplotlib
+- Tensorflow_hub
+- Numpy
 
 
 
-Model Name - HRNet
-Dataset- CamVid
+Model Name : HRNet <br>
+Dataset : CamVid <br>
 
 The CamVid video dataset was split into individual frames. Sample images have been provided in the repository.
 
 
-References
+## References
 
 Agostinelli, A., Pándy, M., Uijlings, J., Mensink, T., & Ferrari, V. (2022). How stable are transferability metrics evaluations? In Lecture Notes in Computer Science (pp. 303–321). https://doi.org/10.1007/978-3-031-19830-4_18
 
